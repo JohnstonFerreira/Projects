@@ -1,0 +1,15 @@
+.celula {
+    border: 1px solid black;
+    width: 105px; 
+    height: 105px;
+    background-image: image('/img/bolso.jpg');
+}
+
+.tabela {
+    width: 330px;
+}
+
+footer {
+    grid-area: f;
+    text-align: center;
+}
